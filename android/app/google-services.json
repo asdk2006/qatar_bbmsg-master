@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "488562614320",
+    "firebase_url": "https://bbmsg-f9909.firebaseio.com",
+    "project_id": "bbmsg-f9909",
+    "storage_bucket": "bbmsg-f9909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488562614320:android:466a4d553ca39bbadd4df5",
+        "android_client_info": {
+          "package_name": "com.example.bm_social_qatar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488562614320-2u15tic1juv9ff21u1gfh1u654vvqtus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBU9OTdDdNCkTOb_wuyJlQ-9u2Kzevuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488562614320-2u15tic1juv9ff21u1gfh1u654vvqtus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

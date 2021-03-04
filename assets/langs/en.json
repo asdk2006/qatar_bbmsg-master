@@ -1,0 +1,138 @@
+{
+    "sign_in_appbar":"Sign in",
+    "welcome_back":"Welcome Back",
+    "welome_paragraph":"Please Sign in to your account",
+    "user_name":"User Name",
+    "password":"Password",
+    "sign_in_button_title":"Sign In",
+    "dont_have_account":"Dont have an account?",
+    "create_new_account":"Create new One",
+    "register_using":"or Sign In using",
+    "app_title":"Cards Market",
+    "forget_password":"Forget password",
+    "null_error":"required field *",
+    "email_error":"email syntax error",
+    "password_error":"password must be more than 8 characters",
+    "create_passwird_title":"Create New Password",
+    "write_pawword_subtitle":"Please write new Password",
+    "new_password":"New Password",
+    "rewrite_pawword":"Rewrite Password",
+    "next":"Next",
+    "first_name":"First Name",
+    "family_name":"Family Name",
+    "email":"Email",
+    "country":"Country",
+    "mobile_number":"Mobile Number",
+    "accept_on":"Accept",
+    "conditions":"Conditions and Terms",
+    "do_register":"Register",
+    "have_account":"Already have Account",
+    "new_register":"New Register",
+    "validate_number":"Validate Number",
+    "send_confirm":"A 4-digit code has been sent to your mobile",
+    "wait_seconds":"Wait 25 seconds",
+    "faild_send_code":"Code has not been recieved?",
+    "resend":"Resend",
+    "confirm":"Confirm",
+    "password_match_error":"two password are not matched",
+    "alert":"Error",
+    "missed_accept_conditions":"you have to accept the conditions and terms to complete regestration proccess",
+    "phone_structure_error":"phone syntax error",
+    "verify_mobile_number":"Verify Mobile Number",
+    "main_page_title":"Main Page",
+    "search_about_card":"Search for card",
+    "cards_widget_title":"Cards",
+    "categories_title":"Categories",
+    "bottom_account":"Account",
+    "bottom_favourite":"Favourite",
+    "categories_home":"Home",
+    "categories_sells":"Purchases",
+    "categories_traders":"buyers",
+    "important_settings":"Important Settings",
+    "enable_notifications":"Enable Notifications",
+    "language":"Language",
+    "currency":"Currency",
+    "About_app":"About App",
+    "user_policy":"User Policy",
+    "contact_us":"Contact Us",
+    "share_app":"Share App",
+    "rate_app":"Rate App",
+    "english":"English",
+    "arabic":"Arabic",
+    "my_account":"My Account",
+    "name_mock":"Shady F. Samara",
+    "address_mockup":"Palestine - Gaza",
+    "join_to_partner":"Join to us as distributer",
+    "change_password":"Change Password",
+    "sign_out":"Sign out",
+    "full_name":"Full Name",
+    "save":"Save",
+    "notification_appbar":"Notifications",
+    "today":"Today",
+    "yesterday":"Yesterday",
+    "edit_account":"Edit Account",
+    "buy_now":"Buy Now",
+    "distributer_name":"Mame",
+    "address_title":"Address",
+    "search_for_distrbuter":"Search for the nearest distributer",
+    "city_label":"City",
+    "street_label":"Street",
+    "filter_results":"Filter Results",
+    "clear_results":"Clear Filters",
+    "distributers":"Distrbuters",
+    "search_in_favourite_label":"Search in favourite",
+    "share_title":"Share",
+    "add_to_favourite":"Add to favourite",
+    "description_title":"Description",
+    "card_price":"Card Price",
+    "tax_value":"Tax Value",
+    "total_price":"Total price",
+    "add_to_basket":"Add to cart",
+    "card_balance":"Card balance",
+    "shoppingCart":"ShoppingCart",
+    "price":"price",
+    "old_password":"Old Password",
+    "confirm_new_password":"Confirm New Password",
+    "error_od_password":"Wrong Old Password",
+    "message":"Message",
+    "send":"Send",
+    "succecc_request":"The application to join the distributor network has been successfully sent",
+    "note":"Note: Your request will be studied and we will contact you soon",
+    "back_to_main":"Back to main",
+    "join_request_title":"Join our distributors",
+    "company_name":"Company Name",
+    "manager_name":"Manager Name",
+    "personal_id":"personal identification",
+    "trade_form":"Commercial Register",
+    "join_now":"Join Now",
+    "id_instructions":"Two photos must be attached for the personal identification (front and back)",
+    "trade_form_instructions":"Two copies of the commercial register must be attached (front and back)",
+    "images_error":"Please upload the front and back sides of the personal ID and the commercial register"
+    ,"connectiom_errir":"No Connection Error"
+    ,"my_purchases":"My Purchases"
+    ,"purchase_date":"Purchase Date"
+    ,"expired_date":"Expired Date"
+    ,"category":"Category"
+    ,"message_sent":"your message has been sent, we will reply very soon"
+    ,"exist_account":"Entered email or phone number has already account"
+    ,"error":"Error"
+    ,"login_failed":"Login failed"
+    ,"error_email":"User email does not exist"
+    ,"error_password":"Entered password is invalid"
+    ,"error_phone":"Entered Phone number is not exist"
+    ,"user_not_exist":"User dos not exist"
+    ,"server_error":"Server error, please try again later"
+    ,"country_not_selected":"You have to select your country!",
+    "not_equal_pins":"Invalid Code!",
+    "success":"Success Process",
+    "no_products":"No Products Found!",
+    "success_order":"Order has been sucessfully added"
+    
+
+
+
+  
+    
+
+
+}
